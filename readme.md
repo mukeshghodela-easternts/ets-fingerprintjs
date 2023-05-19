@@ -8,14 +8,14 @@
   </a>
 </p> -->
 <p align="center">
-  <a href="https://www.npmjs.com/package/@fingerprintjs/fingerprintjs">
-    <img src="https://img.shields.io/npm/v/@fingerprintjs/fingerprintjs.svg" alt="Current NPM version">
+  <a href="https://www.npmjs.com/package/ets-fingerprintjs">
+    <img src="https://img.shields.io/npm/v/ets-fingerprintjs.svg" alt="Current NPM version">
   </a>
-  <a href="https://www.npmjs.com/package/@fingerprintjs/fingerprintjs">
-    <img src="https://img.shields.io/npm/dm/@fingerprintjs/fingerprintjs.svg" alt="Monthly downloads from NPM">
+  <a href="https://www.npmjs.com/package/ets-fingerprintjs">
+    <img src="https://img.shields.io/npm/dm/ets-fingerprintjs.svg" alt="Monthly downloads from NPM">
   </a>
-  <a href="https://www.jsdelivr.com/package/npm/@fingerprintjs/fingerprintjs">
-    <img src="https://img.shields.io/jsdelivr/npm/hm/@fingerprintjs/fingerprintjs.svg" alt="Monthly downloads from jsDelivr">
+  <a href="https://www.jsdelivr.com/package/npm/ets-fingerprintjs">
+    <img src="https://img.shields.io/jsdelivr/npm/hm/ets-fingerprintjs.svg" alt="Monthly downloads from jsDelivr">
   </a>
 </p>
 <!-- <p align="center">
