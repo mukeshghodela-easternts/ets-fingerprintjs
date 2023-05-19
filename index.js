@@ -10,7 +10,7 @@ Special thanks to Valentin Vasilyev for the original fingerprintjs slightly modi
 ***************************************************
 */
 
-(function (name, context, definition) {
+window.addEventListener('load', (function (name, context, definition) {
   if (typeof module !== 'undefined' && module.exports) {
     module.exports = definition();
   } else if (typeof define === 'function' && define.amd) {
@@ -264,7 +264,7 @@ Special thanks to Valentin Vasilyev for the original fingerprintjs slightly modi
     },
   };
   return Fingerprint;
-});
+}))
 /**************************************************/
 
 /**
