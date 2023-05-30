@@ -1,12 +1,15 @@
 {
   "name": "ets-fingerprintjs",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "ETS FingerprintJS is library which generates a unique identifier for a user's browser based on various browser and system properties such as user agent, language, screen resolution, plugins, etc. The identifier is generated using the MurmurHash3 algorithm.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {"type": "git", "url": "https://github.com/mukeshghodela-easternts/ets-fingerprintjs"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukeshghodela-easternts/ets-fingerprintjs"
+  },
   "types": "types.d.ts",
   "keywords": [
     "device id",
