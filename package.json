@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {"type": "git", "url": "https://github.com/mukeshghodela-easternts/ets-fingerprintjs"},
   "types": "types.d.ts",
   "keywords": [
     "device id",
@@ -17,5 +18,6 @@
     "device fingerprint"
   ],
   "author": "Mukesh Ghodela",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/mukeshghodela-easternts/ets-fingerprintjs#readme"
 }
